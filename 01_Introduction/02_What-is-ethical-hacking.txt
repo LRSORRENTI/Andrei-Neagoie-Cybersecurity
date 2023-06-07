@@ -1,3 +1,50 @@
 ========================
 WHAT IS ETHICAL HACKING?
 ========================
+
+In this course we'll learn theory, then put 
+it into practice
+
+We'll start with the basics, and progress 
+to more Intermediate and challenging projects 
+towards the end of the course 
+
+Our goal is to find vulnerabilities and secure them, 
+as an ethical hacker that's our main modus operandi, 
+we help secure systems to keep them safe 
+
+By systems we mean, computers, servers, websites, 
+any computer that needs to be evaluated for 
+vulnerabilities and secured 
+
+Why is this important? 
+
+There are many hackers that are not acting in 
+good faith, that is the hard-line between an 
+ethical hacker, and a malicious hacker
+
+==========
+PERMISSION
+==========
+
+Ethical hackers are allowed permission to hack 
+a company or whoever's system to look for and 
+patch vulnerabilities
+
+Servers, databases, computers, the goal is to 
+ensure that data is secure 
+
+========
+PHISHING
+========
+
+Phishing is a method employed by hackers, tricking 
+you to get enter login info into fake versions 
+of websites you normally go to 
+
+If you look at the address URL, if it doesn't look 
+like the proper url, maybe there's a typo, or it's 
+not using https, and doesn't have the lock symbol 
+those are some clues , but these can also be 
+manipulated, so relying on this alone is not 
+sufficient  

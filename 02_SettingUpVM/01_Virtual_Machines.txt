@@ -1,0 +1,50 @@
+============================================
+Virtual Machines for our hacking environment
+============================================
+
+I'll add a quick preface before I start taking notes,
+after completing The Odin Project, I'm familiar 
+with VM's a bit, we set up Xubuntu on one at the 
+start of TOP
+
+99% of people are running one of these three: 
+
+Windows, Mac OS, or Linux
+
+Using VM's we can run other operating systems 
+on a single machine
+
+But the OS on a machine is not the only thing defining 
+our machine, it has hardware components like: 
+
+- Hard Disk 
+
+- Processor
+
+- Random Access Memory (RAM)
+
+- Motherboard
+
+- CPU 
+
+- GPU 
+
+- SSD 
+
+And many more!!
+
+These components are known as hardware components 
+
+This is important to note because for our VM's to 
+work, they need access to our hardware components 
+
+Since a VM will act as if it's a unique machine itself 
+it needs it's own machine parts 
+
+What we'll do is borrow a bit of our main machines 
+components so that the VM can function properly
+
+VM's only borrow functionality when it's in use, 
+after shutting down the VM we gain all of our 
+resources back, with modern computers the 
+difference in speed isn't that noticeable

@@ -1,0 +1,32 @@
+============
+INTRODUCTION
+============
+
+To start the course we'll first set up our 
+environment, we'll be utilizing a virtual machine 
+running Kali linux throughout our learning journey
+
+We'll also go over the basics of hacking and 
+principles / fundamentals 
+
+We'll learn the basics of python, so we 
+can build tools for our more involved projects 
+towards the end of the course 
+
+We'll go over RECONNAISSANCE or information 
+gathering, tools to gather info 
+
+Then we'll learn scanning, firewalls, ports, 
+OS information
+
+Vulnerability analysis, we determine if something has 
+a vulnerability that exists
+
+Learn how to defend against exploitation and 
+remote access, how to identify and fix these 
+
+Learn how to defend your web apps with 
+Penetration testing, how we can make web apps 
+more secure 
+
+Man in the middle attacks, and wifi cracking 
